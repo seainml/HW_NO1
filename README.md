@@ -21,5 +21,5 @@ HW AlGC JOB HACKING
 ## 面试
 
 - [ ] 算法基础
-    - [ ] Dive intio DL  
+    - [ ] Dive intio DL  (from scratch)
 - [ ] 刷题实践
