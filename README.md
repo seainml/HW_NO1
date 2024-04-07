@@ -1,5 +1,5 @@
-# HW_NO1
-HW AlGC JOB HACKING
+# AIM
+AlGC JOB HACKING
 
 ## JD
 多模态语音生成或实时音乐分离方向
